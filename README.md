@@ -80,4 +80,4 @@ wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FR
 
 ```
 
-**By: [  ⃘⃤꙰✰ ]**
+**By: [  ⃘⃤꙰✰ ]** 
